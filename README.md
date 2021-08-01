@@ -17,7 +17,7 @@ Components:
 - ExploreSuggestions
 - ExploreGrid
 
-- /p/:postId (Posts page)
+- /p/:postId (Post page)
 
 Components:
 
@@ -39,11 +39,11 @@ Component:
 
 /accounts/edit/ (Edit profile page)
 
-- /accounts/login/ (Login page)
+/accounts/login/ (Login page)
 
-- /accounts/emailsignup/ (Signup page)
+/accounts/emailsignup/ (Signup page)
 
-- (Not found page)
+(Not found page)
 
 ## Shared Components
 
